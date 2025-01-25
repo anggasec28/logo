@@ -1,7 +1,7 @@
 echo -e "\e[1;31m
 ◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-    Telegram Channel : @airdropasc
-    Telegram Group   : @autosultan_group
+    Telegram Channel : @kedaidrop
+    Contact Twitter  : @Gopalway
 ◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
       
 \e[0m"
